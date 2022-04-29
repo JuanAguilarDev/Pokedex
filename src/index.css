@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.not-found{
+  text-align: center;
+  font-size: 1.25rem;
+  padding: 20px;
+}
